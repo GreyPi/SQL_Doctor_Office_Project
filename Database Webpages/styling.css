@@ -1,0 +1,17 @@
+html {
+  background: CornflowerBlue;
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+  max-width: 75rem;
+  margin: auto;
+  background: #555;
+  padding: 10px;
+}
+
+.table{
+	background: #555;
+}
