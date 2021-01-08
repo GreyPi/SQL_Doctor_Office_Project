@@ -20,6 +20,7 @@
   4. Open head.php to see the webpage and click each question to see output.
   
 **XAMPP Installation Guide**
+
   Step 1: Install XAMPP.  [Download from here](https://www.apachefriends.org/index.html).
 
   Step 2: Set up XAMPP.  [Follow instructions here](http://sustainablewebdesign.com/book/resources/xampp/).
